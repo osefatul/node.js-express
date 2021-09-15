@@ -1,3 +1,5 @@
+//COPY THIS WHOLE PAGE AND PASTE IT ON APP.JS. AS APP.JS IS SET AS MAIN PAGE FOR NODE TO RECOGNIZE
+
 const http = require("http");
 
 //setup Server
